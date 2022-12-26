@@ -1,0 +1,18 @@
+.tweetMetaWrapper::before{
+  content: "";
+  display: block;
+  height: 8px;
+
+  background: #EBD8FF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.06), inset 0px -2px 4px #AE7BE3, inset 0px 4px 3px #FBF8FF;
+}
+
+.tweetMeta{
+  margin: 74px 0 32px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  color: #EBD8FF;
+}

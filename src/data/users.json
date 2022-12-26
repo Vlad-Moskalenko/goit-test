@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "user": "John Doe",
+    "tweets": 753,
+    "followers": 100500,
+    "avatar": "https://toppng.com/uploads/preview/cool-avatar-transparent-image-cool-boy-avatar-11562893383qsirclznyw.png"
+  },
+  {
+    "id": 2,
+    "user": "John Johnson",
+    "tweets": 153,
+    "followers": 1500000,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQwWMJbZoZ26ZyYB8M-1e7OLBVUWXRLNSO6A&usqp=CAU"
+  },
+  {
+    "id": 3,
+    "user": "John",
+    "tweets": 1002,
+    "followers": 10500,
+    "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSv1bNiLkJdKgheMl1Bqi1eecDJsufGqq82LA&usqp=CAU"
+  },
+  {
+    "id": 4,
+    "user": "John Smith",
+    "tweets": 953,
+    "followers": 1500,
+    "avatar": "https://img.lovepik.com/free-png/20210922/lovepik-may-fourth-youth-day-male-youth-cartoon-avatar-png-image_401138947_wh1200.png"
+  }
+]

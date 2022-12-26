@@ -1,0 +1,9 @@
+.tweetWrapper{
+  position: relative;
+  width: 454px;
+  min-height: 547px;
+
+  background: linear-gradient(115deg, #471CA9 -1.0%, #5736A3 54.3%, #4B2A99 79%);
+  box-shadow: -3px 8px 24px rgba(0, 0, 0, 0.23);
+  border-radius: 24px;
+}
