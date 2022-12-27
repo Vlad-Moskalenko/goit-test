@@ -7,7 +7,7 @@ export const TweetMeta = ({ tweets, isFollowing, followers, children }) => {
     <div className={css.tweetMetaWrapper}>
       <ul className={css.tweetMeta}>
         <li>{tweets} tweets</li>
-        <li>{currentFollowers.toLocaleString('en')} Followers</li>
+        <li>{currentFollowers.toLocaleString('en-US')} Followers</li>
       </ul>
       {children}
     </div>
